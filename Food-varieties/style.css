@@ -1,0 +1,49 @@
+body {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+
+}
+.orange { 
+    color: orange;
+    margin-left: 25px;
+    padding-left: 25px;
+    padding-top: 40px;
+}
+h2 {font-size: 25px;margin-left: 25px;
+    padding-left: 20px;
+}
+section {
+    display: flex;
+}
+.half-width {
+    width: 50%;
+    margin-left: 25px;
+    padding-left: 35px;
+}
+.link-button {
+    text-decoration: none;
+    background-color: #e74e11;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange,tomato);
+    font-weight: 700;
+}
+.another {
+    background-color: AntiqueWhite;
+    background-image: url(images/top-banner.png);
+    background-image:;
+}
+.img {
+    position: relative;
+    left:30px;
+}
+.another2 {font-family: Verdana, Geneva, Tahoma, sans-serif;
+    direction: rtl;
+}
+.model1 {
+    border:10px solid;
+    display:flex;
+}
+.khan1 {
+    margin left: 10px;
+    position :left;
+}
